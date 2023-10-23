@@ -6,10 +6,10 @@ categories: [blog]
 tags: []
 ---
 
-# [NGINX 설치](http://nginx.org/en/download.html)
-# 압축해제 & NGINX 실행
+## [NGINX 설치](https://nginx.org/en/download.html)
+## 압축해제 & NGINX 실행
 
-# 명령어
+## 명령어
 1. nginx가 설치된 파일에서 명령 프롬프트 창 열기
 2. 명령어 입력
 
