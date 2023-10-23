@@ -2,7 +2,8 @@
 layout: post
 title: "포스팅 테스트"
 date: 2023-10-18
-categories: blog
+categories: [blog]
+tags: []
 ---
 
 # [NGINX 설치](http://nginx.org/en/download.html)
