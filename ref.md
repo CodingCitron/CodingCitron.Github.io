@@ -43,3 +43,12 @@ bundle exec jekyll serve
 ### ...16 에러
 - bundle lock --add-platform x86_64-linux
 - 터미널에 위 실행시 해결 
+
+### By Name 수정하기
+
+### 한글 폰트는 사이즈 수정하는 게 좋을듯
+
+### 프로필 이미지 추가하기
+
+### 링크 연결하기
+
