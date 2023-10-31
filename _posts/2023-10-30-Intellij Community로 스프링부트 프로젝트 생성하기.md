@@ -17,11 +17,17 @@ Spring Initializr 사이트를 가면 쉽게 스프링 프로젝트 생성이 �
     <img src="/assets/img/2023-10-30/spring-initializr.png" alt="spring initializr site image">
 </figure>
 
-- Project
-- Language
-- Spring Boot
+- Project: 빌드 도구를 선택한다.
+- Language: 프로그래밍 언어를 선택한다.
+- Spring Boot: 스프링 부트의 버전을 선택한다.
 - Project Metadata
-- Dependencies
+  - Group: 팀 이름, 회사 이름
+  - Atifact: 프로젝트 이름
+  - Name: 어플리케이션 이름
+  - Description: 어플리케이션 설명
+  - Package name: 그룹.아티팩트 ex) com.example.demo로 작성된다.
+  - Packaging: 배포 방식
+- Dependencies: 외부 라이브러리 관리, 쉽게 추가할 수 있다.
 
 - GENERATE
 - EXPLORE
