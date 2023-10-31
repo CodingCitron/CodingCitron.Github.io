@@ -57,3 +57,7 @@ Spring Initializr 사이트를 가면 쉽게 스프링 프로젝트 생성이 �
   <img src="/assets/img/2023-10-31/share.png" alt="SHARE" />
   <figcaption>SHARE</figcaption>
 </figure>
+
+### 참조
+- [spring.io](https://spring.io/guides/gs/spring-boot/)
+- [start.spring.io](https://start.spring.io/)
