@@ -10,6 +10,12 @@ tags: [Spring, Spring Boot, 환경설정]
 .img-link {
   display: block;
 }
+
+figcaption {
+  color: #545454;
+  text-align: center;
+  font-size: 0.95rem;
+}
 </style>
 
 IntelliJ Community를 사용하는데 스프링 프로젝트 생성을 지원하지 않는 거 같아서 작성하는 글  
@@ -17,7 +23,7 @@ Spring Initializr 사이트를 가면 쉽게 스프링 프로젝트 생성이 �
 
 
 # Spring Initializr 사용하기
-- [Spring Initializr 바로가기](https://start.spring.io/)
+- [**Spring Initializr 바로가기**](https://start.spring.io/)
 
 <figure>
     <img src="/assets/img/2023-10-30/spring-initializr.png" alt="spring initializr site image" />
@@ -36,18 +42,18 @@ Spring Initializr 사이트를 가면 쉽게 스프링 프로젝트 생성이 �
 - **Dependencies**: 외부 라이브러리 관리, 쉽게 추가할 수 있다.
 <figure>
   <img src="/assets/img/2023-10-31/dependencies.png" alt="Dependencies" />
-  <fication>Dependencies</fication>
+  <figcaption>Dependencies</figcaption>
 </figure>
 
 - **GENERATE**: 생성 버튼 프로젝트를 ZIP 파일로 다운로드 받을 수 있다.
 - **EXPLORE**: 코드를 볼 수 있다.
 <figure>
   <img src="/assets/img/2023-10-31/explore.png" alt="EXPLORE" />
-  <fication>EXPLORE</fication>
+  <figcaption>EXPLORE</figcaption>
 </figure>
 
 - **SHARE**: 공유 버튼 링크를 생성
 <figure>
   <img src="/assets/img/2023-10-31/share.png" alt="SHARE" />
-  <fication>SHARE</fication>
+  <figcaption>SHARE</figcaption>
 </figure>
