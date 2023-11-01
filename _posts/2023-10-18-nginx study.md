@@ -2,7 +2,7 @@
 layout: post
 title: "포스팅 테스트"
 date: 2023-10-18
-categories: [blog]
+categories: [공부 정리]
 tags: []
 ---
 

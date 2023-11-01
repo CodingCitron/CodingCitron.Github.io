@@ -1,4 +1,13 @@
 // 한글 영어 폰트 다르게 하기
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+html {
+  font-size: 16px;
+}
+
+body {
+  font-family: 'Noto Sans KR', 'Source Sans Pro', sans-serif;
+}
 
 .img-link {
   display: block;
@@ -11,5 +20,9 @@ figcaption {
 }
 
 .post-navigation p {
+  font-size: 1rem;
+}
+
+.content {
   font-size: 1rem;
 }
