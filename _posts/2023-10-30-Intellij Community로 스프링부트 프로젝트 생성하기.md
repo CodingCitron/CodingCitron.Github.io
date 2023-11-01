@@ -5,22 +5,8 @@ date: 2023-10-30
 categories: [Spring]
 tags: [Spring, Spring Boot, 환경설정]
 ---
-
-<style>
-.img-link {
-  display: block;
-}
-
-figcaption {
-  color: #545454;
-  text-align: center;
-  font-size: 0.95rem;
-}
-</style>
-
 IntelliJ Community를 사용하는데 스프링 프로젝트 생성을 지원하지 않는 거 같아서 작성하는 글  
 Spring Initializr 사이트를 가면 쉽게 스프링 프로젝트 생성이 가능하다.
-
 
 # Spring Initializr 사용하기
 - [**Spring Initializr 바로가기**](https://start.spring.io/)
@@ -58,6 +44,6 @@ Spring Initializr 사이트를 가면 쉽게 스프링 프로젝트 생성이 �
   <figcaption>SHARE</figcaption>
 </figure>
 
-### 참조
+**Refrerence**
 - [spring.io](https://spring.io/guides/gs/spring-boot/)
 - [start.spring.io](https://start.spring.io/)
