@@ -1,5 +1,7 @@
 # [첫걸음](https://velog.io/@kasterra/Github-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0-%EC%B2%AB%EA%B1%B8%EC%9D%8C-Jekyll-%EA%B8%B0%EC%B4%88)
 
+# [공식 깃허브](https://github.com/cotes2020/jekyll-theme-chirpy)
+
 # CodingCitron.github.io 
 
 ## 로컬 서버 실행하기
