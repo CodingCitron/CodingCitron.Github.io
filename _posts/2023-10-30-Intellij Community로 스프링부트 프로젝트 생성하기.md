@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Spring Initializr로 프로젝트 생성하기"
+title: Spring Initializr로 프로젝트 생성하기
 date: 2023-10-30 
 categories: [Spring]
 tags: [Spring, Spring Boot, 환경설정]
