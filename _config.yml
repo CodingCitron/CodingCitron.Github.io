@@ -74,7 +74,7 @@ theme_mode: # [light|dark]
 img_cdn: https://res.cloudinary.com/dsxm1cqg6/image/upload/v1700728905/images
 
 # the avatar on sidebar, support local or CORS resources
-avatar: /assets/img/profile/KakaoTalk_20231102_094913350.jpg
+avatar: /8cad7cee-3506-4b5d-b3d8-3f0c54a4a914.jpg
 
 # boolean type, the global switch for TOC in posts.
 toc: true
