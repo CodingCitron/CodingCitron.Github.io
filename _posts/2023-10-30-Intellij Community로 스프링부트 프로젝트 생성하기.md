@@ -12,7 +12,7 @@ Spring Initializr 사이트를 가면 쉽게 스프링 프로젝트 생성이 �
 - [**Spring Initializr 바로가기**](https://start.spring.io/)
 
 <figure>
-    <img src="https://res.cloudinary.com/dsxm1cqg6/image/upload/v1700728905/images/48089347-eafa-43b6-a649-6ba372f14a7a.png" alt="spring initializr site image" />
+    <img src="/48089347-eafa-43b6-a649-6ba372f14a7a.png" alt="spring initializr site image" />
 </figure>
 
 - **Project**: 빌드 도구를 선택한다.
@@ -27,20 +27,20 @@ Spring Initializr 사이트를 가면 쉽게 스프링 프로젝트 생성이 �
   - **Packaging**: 배포 방식
 - **Dependencies**: 외부 라이브러리 관리, 쉽게 추가할 수 있다.
 <figure>
-  <img src="/assets/img/2023-10-31/dependencies.png" alt="Dependencies" />
+  <img src="/3c9dab2e-a16d-4836-bb7b-e202b77c6c5f.png" alt="Dependencies" />
   <figcaption>Dependencies</figcaption>
 </figure>
 
 - **GENERATE**: 생성 버튼 프로젝트를 ZIP 파일로 다운로드 받을 수 있다.
 - **EXPLORE**: 코드를 볼 수 있다.
 <figure>
-  <img src="/assets/img/2023-10-31/explore.png" alt="EXPLORE" />
+  <img src="/1c20bdf6-71ab-49e8-9087-6ee46ec3fcf6.png" alt="EXPLORE" />
   <figcaption>EXPLORE</figcaption>
 </figure>
 
 - **SHARE**: 공유 버튼 링크를 생성
 <figure>
-  <img src="/assets/img/2023-10-31/share.png" alt="SHARE" />
+  <img src="/6a3eb6ee-990c-429a-96c9-50025e0cf17a.png" alt="SHARE" />
   <figcaption>SHARE</figcaption>
 </figure>
 

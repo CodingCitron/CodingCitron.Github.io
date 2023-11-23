@@ -71,7 +71,7 @@ theme_mode: # [light|dark]
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn: 
+img_cdn: https://res.cloudinary.com/dsxm1cqg6/image/upload/v1700728905/images
 
 # the avatar on sidebar, support local or CORS resources
 avatar: /assets/img/profile/KakaoTalk_20231102_094913350.jpg

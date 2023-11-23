@@ -22,7 +22,7 @@ export default {
 ```
 
 <figure>
-  <img src="/assets/img/23-11-03/error.png" alt="config 에러" />
+  <img src="/d1b1c817-c0c8-468a-a464-d9d8a2d89817.png" alt="config 에러" />
   <figcaption>Module parse failed: Unexpected token (1:0)
 You may need an appropriate loader to handle this file type, currently no loaders are configured to process this file. See https://webpack.js.org/concepts#loaders</figcaption>
 </figure>
