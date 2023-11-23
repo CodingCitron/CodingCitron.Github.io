@@ -12,7 +12,7 @@ Spring Initializr 사이트를 가면 쉽게 스프링 프로젝트 생성이 �
 - [**Spring Initializr 바로가기**](https://start.spring.io/)
 
 <figure>
-    <img src="/assets/img/2023-10-30/spring-initializr.png" alt="spring initializr site image" />
+    <img src="http://res.cloudinary.com/dsxm1cqg6/image/upload/v1700728905/images/48089347-eafa-43b6-a649-6ba372f14a7a.png" alt="spring initializr site image" />
 </figure>
 
 - **Project**: 빌드 도구를 선택한다.
